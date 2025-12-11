@@ -1,0 +1,10 @@
+Hello,
+
+This is a test email sent from the GitHub Actions Python demo project.
+
+Commit Info:
+- Commit ID: {{COMMIT_ID}}
+- Commit Message: {{COMMIT_MESSAGE}}
+
+Best regards,
+GitHub Actions Learner
